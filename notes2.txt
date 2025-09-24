@@ -1,3 +1,5 @@
 'date':: working with branches
 'date':: working with branches-3
 'date':: working with merge-same
+'date'::working with merge:: conflict demo
+Fixed the conflict
