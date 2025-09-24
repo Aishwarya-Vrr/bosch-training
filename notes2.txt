@@ -3,3 +3,4 @@
 'date':: working with merge-same
 'date'::working with merge:: conflict demo
 Fixed the conflict
+'date'::working with stash demo
