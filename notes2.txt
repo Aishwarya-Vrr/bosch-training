@@ -4,4 +4,3 @@
 'date'::working with merge:: conflict demo
 Fixed the conflict
 'date'::working with stash demo
-'date'::stash demo
