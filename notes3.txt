@@ -1,0 +1,2 @@
+'date'::working with stash demo
+'date'::stash demo
