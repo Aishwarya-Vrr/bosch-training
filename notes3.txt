@@ -6,3 +6,4 @@ added one more change to demo, conflict between local and remote repo
 added one more change to demo, conflict between local and remote repo
 Demo for merge file in local -change 2
 Added change for protected branch demo
+demo for status-check
