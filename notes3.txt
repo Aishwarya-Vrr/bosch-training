@@ -9,3 +9,4 @@ Added change for protected branch demo
 demo for status-check
 demo for status-check -2
 demo check with atleast 1 reqd approvals
+Added change for stale approval dmeo
