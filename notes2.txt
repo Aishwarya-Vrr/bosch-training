@@ -7,3 +7,4 @@ Fixed the conflict
 'date'::stash demo
 'date'::last activity
 Added change for ORT merge between local and remote repo
+Demo for merge file in local -change 1
